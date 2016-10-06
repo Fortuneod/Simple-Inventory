@@ -94,7 +94,7 @@ EOD;
 	</tr>
 	<tr>
 	<td>Monetary Value: </td>
-	<td>N <input type="text" size="17" name="money" id="money" />
+	<td><input type="text" size="17" name="money" id="money" />
 	</tr>
 	<tr>
 	<td colspan=2 align="center"><input type="button" value="Add to Inventory"onClick="registerNew();"/>
