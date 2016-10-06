@@ -41,7 +41,7 @@
 				<td>$acquired</td>
 				<td>$span Yrs</td>
 				<td>$depreciate%</td>
-				<td>N $amount</td>
+				<td>$amount</td>
 				</tr>";
 	
 		}
